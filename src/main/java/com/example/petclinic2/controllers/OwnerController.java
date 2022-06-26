@@ -24,7 +24,5 @@ private final OwnerService ownerService;
     }
 }
 
-//new commit
 
-//new commit 2
 
